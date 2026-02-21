@@ -56,5 +56,7 @@ BERT: Accuracy ~0.78
 - re (Regular Expressions): Для очистки текста
 
 ссылки на тетрадки в Google Colab:
+
 https://colab.research.google.com/drive/1IQLpxPnt22855VaVqx1PriA01q4S0JBX?usp=sharing - дообучение BERT
+
 https://colab.research.google.com/drive/1dUcDSpuBYg3gJ1u1nJzvr8ZCF68rXq9U?usp=sharing - дообучение Llama
