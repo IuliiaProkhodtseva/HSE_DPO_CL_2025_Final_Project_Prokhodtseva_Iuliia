@@ -31,7 +31,9 @@
 - epochs=56
 
 Оценка результатов: 
-Метрики: Accuracy, Precision, Recall, F1-score (Macro и Weighted).
+
+Метрики: Accuracy, Precision, Recall, F1-score (Macro и Weighted)
+
 Визуализация: Confusion Matrix
 
 BERT: Accuracy ~0.78 
